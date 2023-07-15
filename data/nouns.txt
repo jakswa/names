@@ -1,981 +1,845 @@
-able
-account
-achieve
-achiever
-acoustics
-act
-action
-activity
-actor
-addition
-adjustment
-advertisement
-advice
-aftermath
-afternoon
-afterthought
-agreement
-air
-airplane
-airport
-alarm
-alley
-amount
-amusement
-anger
-angle
-animal
-answer
-ant
-ants
-apparatus
-apparel
-apple
-apples
-appliance
-approval
-arch
-argument
-arithmetic
-arm
-army
-art
-attack
-attempt
-attention
-attraction
-aunt
-authority
-babies
-baby
-back
-badge
-bag
-bait
-balance
-ball
-balloon
-balls
-banana
-band
-base
-baseball
-basin
-basket
-basketball
-bat
-bath
-battle
-bead
-beam
-bean
-bear
-bears
-beast
-bed
-bedroom
-beds
-bee
-beef
-beetle
-beggar
-beginner
-behavior
-belief
-believe
-bell
-bells
-berry
-bike
-bikes
-bird
-birds
-birth
-birthday
-bit
-bite
-blade
-blood
-blow
-board
-boat
-boats
-body
-bomb
-bone
-book
-books
-boot
-border
-bottle
-boundary
-box
-boy
-boys
-brain
-brake
-branch
-brass
-bread
-breakfast
-breath
-brick
-bridge
-brother
-brothers
-brush
-bubble
-bucket
-building
-bulb
-bun
-burn
-burst
-bushes
-business
-butter
-button
-cabbage
-cable
-cactus
-cake
-cakes
-calculator
-calendar
-camera
-camp
-can
-cannon
-canvas
-cap
-caption
-car
-card
-care
-carpenter
-carriage
-cars
-cart
-cast
-cat
-cats
-cattle
-cause
-cave
-celery
-cellar
-cemetery
-cent
-chain
-chair
-chairs
-chalk
-chance
-change
-channel
-cheese
-cherries
-cherry
-chess
-chicken
-chickens
-children
-chin
-church
-circle
-clam
-class
-clock
-clocks
-cloth
-cloud
-clouds
-clover
-club
-coach
-coal
-coast
-coat
-cobweb
-coil
-collar
-color
-comb
-comfort
-committee
-company
-comparison
-competition
-condition
-connection
-control
-cook
-copper
-copy
-cord
-cork
-corn
-cough
-country
-cover
-cow
-cows
-crack
-cracker
-crate
-crayon
-cream
-creator
-creature
-credit
-crib
-crime
-crook
-crow
-crowd
-crown
-crush
-cry
-cub
-cup
-current
-curtain
-curve
-cushion
-dad
-daughter
-day
-death
-debt
-decision
-deer
-degree
-design
-desire
-desk
-destruction
-detail
-development
-digestion
-dime
-dinner
-dinosaurs
-direction
-dirt
-discovery
-discussion
-disease
-disgust
-distance
-distribution
-division
-dock
-doctor
-dog
-dogs
-doll
-dolls
-donkey
-door
-downtown
-drain
-drawer
-dress
-drink
-driving
-drop
-drug
-drum
-duck
-ducks
-dust
-ear
-earth
-earthquake
-edge
-education
-effect
-egg
-eggnog
-eggs
-elbow
-end
-engine
-error
-event
-example
-exchange
-existence
-expansion
-experience
-expert
-eye
-eyes
-face
-fact
-fairies
-fall
-family
-fan
-fang
-farm
-farmer
-father
-faucet
-fear
-feast
-feather
-feeling
-feet
-fiction
-field
-fifth
-fight
-finger
-fire
-fireman
-fish
-flag
-flame
-flavor
-flesh
-flight
-flock
-floor
-flower
-flowers
-fly
-fog
-fold
-food
-foot
-force
-fork
-form
-fowl
-frame
-friction
-friend
-friends
-frog
-frogs
-front
-fruit
-fuel
-furniture
-galley
-game
-garden
-gate
-geese
-ghost
-giants
-giraffe
-girl
-girls
-glass
-glove
-glue
-goat
-gold
-goldfish
-good-bye
-goose
-government
-governor
-grade
-grain
-grandfather
-grandmother
-grape
-grass
-grip
-ground
-group
-growth
-guide
-guitar
-gun
-hair
-haircut
-hall
-hammer
-hand
-hands
-harbor
-harmony
-hat
-hate
-head
-health
-hearing
-heart
-heat
-help
-hen
-hill
-history
-hobbies
-hole
-holiday
-home
-honey
-hook
-hope
-horn
-horse
-horses
-hose
-hospital
-hot
-hour
-house
-houses
-humor
-hydrant
-ice
-icicle
-idea
-impulse
-income
-increase
-industry
-ink
-insect
-instrument
-insurance
-interest
-invention
-iron
-island
-jail
-jam
-jar
-jeans
-jelly
-jellyfish
-jewel
-join
-joke
-journey
-judge
-juice
-jump
-kettle
-key
-kick
-kiss
-kite
-kitten
-kittens
-kitty
-knee
-knife
-knot
-knowledge
-laborer
-lace
-ladybug
-lake
-lamp
-land
-language
-laugh
-lawyer
-lead
-leaf
-learning
-leather
-leg
-legs
-letter
-letters
-lettuce
-level
-library
-lift
-light
-limit
-line
-linen
-lip
-liquid
-list
-lizards
-loaf
-lock
-locket
-look
-loss
-love
-low
-lumber
-lunch
-lunchroom
-machine
-magic
-maid
-mailbox
-man
-manager
-map
-marble
-mark
-market
-mask
-mass
-match
-meal
-measure
-meat
-meeting
-memory
-men
-metal
-mice
-middle
-milk
-mind
-mine
-minister
-mint
-minute
-mist
-mitten
-mom
-money
-monkey
-month
-moon
-morning
-mother
-motion
-mountain
-mouth
-move
-muscle
-music
-nail
-name
-nation
-neck
-need
-needle
-nerve
-nest
-net
-news
-night
-noise
-north
-nose
-note
-notebook
-number
-nut
-oatmeal
-observation
-ocean
-offer
-office
-oil
-operation
-opinion
-orange
-oranges
-order
-organization
-ornament
-oven
-owl
-owner
-page
-pail
-pain
-paint
-pan
-pancake
-paper
-parcel
-parent
-park
-part
-partner
-party
-passenger
-paste
-patch
-payment
-peace
-pear
-pen
-pencil
-person
-pest
-pet
-pets
-pickle
-picture
-pie
-pies
-pig
-pigs
-pin
-pipe
-pizzas
-place
-plane
-planes
-plant
-plantation
-plants
-plastic
-plate
-play
-playground
-pleasure
-plot
-plough
-pocket
-point
-poison
-police
-polish
-pollution
-popcorn
-porter
-position
-pot
-potato
-powder
-power
-price
-print
-prison
-process
-produce
-profit
-property
-prose
-protest
-pull
-pump
-punishment
-purpose
-push
-quarter
-quartz
-queen
-question
-quicksand
-quiet
-quill
-quilt
-quince
-quiver
-rabbit
-rabbits
-rail
-railway
-rain
-rainstorm
-rake
-range
-rat
-rate
-ray
-reaction
-reading
-reason
-receipt
-recess
-record
-regret
-relation
-religion
-representative
-request
-respect
-rest
-reward
-rhythm
-rice
-riddle
-rifle
-ring
-rings
-river
-road
-robin
-rock
-rod
-roll
-roof
-room
-root
-rose
-route
-rub
-rule
-run
-sack
-sail
-salt
-sand
-scale
-scarecrow
-scarf
-scene
-scent
-school
-science
-scissors
-screw
-sea
-seashore
-seat
-secretary
-seed
-selection
-self
-sense
-servant
-shade
-shake
-shame
-shape
-sheep
-sheet
-shelf
-ship
-shirt
-shock
-shoe
-shoes
-shop
-show
-side
-sidewalk
-sign
-silk
-silver
-sink
-sister
-sisters
-size
-skate
-skin
-skirt
-sky
-slave
-sleep
-sleet
-slip
-slope
-smash
-smell
-smile
-smoke
-snail
-snails
-snake
-snakes
-sneeze
-snow
-soap
-society
-sock
-soda
-sofa
-son
-song
-songs
-sort
-sound
-soup
-space
-spade
-spark
-spiders
-sponge
-spoon
-spot
-spring
-spy
-square
-squirrel
-stage
-stamp
-star
-start
-statement
-station
-steam
-steel
-stem
-step
-stew
-stick
-sticks
-stitch
-stocking
-stomach
-stone
-stop
-store
-story
-stove
-stranger
-straw
-stream
-street
-stretch
-string
-structure
-substance
-sugar
-suggestion
-suit
-summer
-sun
-support
-surprise
-sweater
-swim
-swing
-system
-table
-tail
-talk
-tank
-taste
-tax
-teaching
-team
-teeth
-temper
-tendency
-tent
-territory
-test
-texture
-theory
-thing
-things
-thought
-thread
-thrill
-throat
-throne
-thumb
-thunder
-ticket
-tiger
-time
-tin
-title
-toad
-toe
-toes
-tomatoes
-tongue
-tooth
-toothbrush
-toothpaste
-top
-touch
-town
-toy
-toys
-trade
-trail
-train
-trains
-tramp
-transport
-tray
-treatment
-tree
-trees
-trick
-trip
-trouble
-trousers
-truck
-trucks
-tub
-turkey
-turn
-twig
-twist
-umbrella
-uncle
-underwear
-unit
-use
-vacation
-value
-van
-vase
-vegetable
-veil
-vein
-verse
-vessel
-vest
-view
-visitor
-voice
-volcano
-volleyball
-voyage
-walk
-wall
-war
-wash
-waste
-watch
-water
-wave
-waves
-wax
-way
-wealth
-weather
-week
-weight
-wheel
-whip
-whistle
-wilderness
-wind
-window
-wine
-wing
-winter
-wire
-wish
-woman
-women
-wood
-wool
-word
-work
-worm
-wound
-wren
-wrench
-wrist
-writer
-writing
-yak
-yam
-yard
-yarn
-year
-yoke
-zebra
-zephyr
-zinc
-zipper
-zoo
+Adalbert Bolger
+Adaldrida Bolger
+Adalgar Bolger
+Adalgrim Took
+Adam Hornblower
+Adamanta Chubb
+Adanel
+Adelard Took
+Adrahil
+Aegnor
+Aerin
+Agathor
+Aghan
+Aglahad
+Ailinel
+Aldamir
+Aldor
+Alfrida of the Yale
+Algund
+Almarian
+Almáriel
+Almiel
+Alphros
+Amandil
+Amaranth Brandybuck
+Amarië
+Amdír
+Amethyst Hornblower
+Amlach
+Amlaith
+Amras
+Amrod
+Amroth
+Amrothos
+Anairë
+Anardil
+Anborn
+Ancalagon
+Andreth
+Andróg
+Andvír
+Andwise Roper
+Angamaitë
+Angbor
+Angelica Baggins
+Angelimir
+Angrim
+Angrod
+Annael
+Anson Roper
+Ar-Adûnakhôr
+Ar-Gimilzôr
+Ar-Pharazôn
+Ar-Sakalthôr
+Ar-Zimrathôn
+Arachon
+Arador
+Araglas
+Aragorn
+Aragost
+Arahad
+Arahael
+Aranarth
+Arantar
+Aranuir
+Aranwë
+Araphant
+Araphor
+Arassuil
+Aratan
+Arathorn
+Araval
+Aravir
+Aravorn
+Arciryas
+Ardamir
+Aredhel
+Argeleb
+Argon
+Argonui
+Arminas
+Artamir
+Arthad
+Arvedui
+Arvegil
+Arveleg
+Arwen
+Asgon
+Asphodel Brandybuck
+Atanalcar
+Atanatar
+Aulendil
+Avranc
+Axantur
+Azaghâl
+Azog
+Bain
+Balbo Baggins
+Baldor
+Balin
+Ban
+Bandobras Took
+Barach
+Baragund
+Barahir
+Baran
+Baranor
+Bard
+Barliman Butterbur
+Basso Boffin
+Beechbone
+Belba Baggins
+Beldir
+Beldis
+Belecthor
+Beleg
+Belegor
+Belegorn
+Belegund
+Belemir
+Belen
+Beleth
+Bell Goodchild
+Belladonna Took
+Bëor
+Beorn
+Bereg
+Beregar
+Beregond
+Berelach
+Beren
+Bergil
+Beril
+Berilac Brandybuck
+Bert
+Berúthiel
+Berylla Boffin
+Bifur
+Bilbo Baggins
+Bilbo Gardner
+Bill Butcher
+Bill Ferny
+Bingo Baggins
+Blanco Bracegirdle
+Blodren
+Boar of Everholt
+Bodo Proudfoot
+Bodruith
+Bofur
+Bolg
+Bombur
+Bór
+Borin
+Borlach
+Borlad
+Borlas
+Boromir
+Boron
+Borondir
+Borthand
+Bosco Boffin
+Bowman Cotton
+Brand
+Brandir
+Bregil
+Brego
+Bregolas
+Bregor
+Briffo Boffin
+Brodda
+Bruno Bracegirdle
+Brytta
+Bucca of the Marish
+Buffo Boffin
+Buldar
+Bungo Baggins
+Calimehtar
+Calimmacil
+Caliondo
+Calmacil
+Camellia Sackville
+Caranthir
+Carc
+Carcharoth
+Carl Cotton
+Castamir
+Celeborn
+Celebrían
+Celebrimbor
+Celebrindor
+Celegorm
+Celepharn
+Cemendur
+Ceorl
+Chica Chubb
+Círdan
+Cirion
+Ciryandil
+Ciryatur
+Ciryon
+Cora Goodbody
+Cotman
+Cottar
+Curufin
+Daddy Twofoot
+Daeron
+Dagnir
+Dáin
+Dáin Ironfoot
+Dairuin
+Daisy Baggins
+Daisy Gamgee
+Daisy Gardner
+Damrod
+Denethor
+Déor
+Déorwine
+Dernhelm
+Derufin
+Dervorin
+Diamond of Long Cleeve
+Dina Diggle
+Dinodas Brandybuck
+Dior
+Dírhael
+Dírhaval
+Dís
+Doderic Brandybuck
+Dodinas Brandybuck
+Donnamira Took
+Dora Baggins
+Dori
+Dorlas
+Draugluin
+Drogo Baggins
+Druda Burrows
+Dudo Baggins
+Duilin
+Duinhir
+Dúnhere
+Durin
+Durin's Bane
+Dwalin
+Eärendil
+Eärendur
+Eärnil
+Eärnur
+Eärwen
+Ebor
+Ecthelion
+Edrahil
+Egalmoth
+Eglantine Banks
+Eilinel
+Elanor Gardner
+Elatan
+Elboron
+Eldacar
+Eldalótë
+Eldarion
+Elemmakil
+Elemmírë
+Elendil
+Elendur
+Elentir
+Elenwë
+Elfhelm
+Elfhild
+Elfstan Fairbairn
+Elfwine
+Elladan
+Elmar
+Elmo
+Elphir
+Elrohir
+Elrond
+Elros
+Elulindo
+Eluréd
+Elurín
+Elwing
+Emeldir
+Enel
+Enelyë
+Enerdhil
+Enthor
+Eofor
+Eöl
+Éomer
+Éomund
+Eorl
+Éothain
+Éothéod
+Éowyn
+Eradan
+Erchirion
+Erendis
+Erestor
+Erien
+Erkenbrand
+Erling
+Esmeralda Took
+Estella Bolger
+Estelmo
+Everard Took
+Falco Chubb-Baggins
+Faniel
+Faramir
+Faramir Took
+Farin
+Farmer Cotton
+Farmer Maggot
+Fastolph Bolger
+Fastred
+Fastred of Greenholm
+Fëanor
+Fengel
+Ferdibrand Took
+Ferdinand Took
+Ferumbras Took
+Fíli
+Filibert Bolger
+Fimbrethil
+Finarfin
+Finbor
+Findegil
+Findis
+Finduilas
+Fingolfin
+Fingon
+Finrod
+Finwë
+Fíriel
+Fíriel Fairbairn
+Flambard Took
+Flói
+Folca
+Folco Boffin
+Folco Burrowes
+Folcred
+Folcwine
+Forhend
+Forlong
+Forthwini
+Fortinbras Took
+Forweg
+Fosco Baggins
+Fram
+Frár
+Fréa
+Fréaláf
+Fréawine
+Freca
+Fredegar Bolger
+Frerin
+Frodo Baggins
+Frodo Gardner
+Frór
+Frumgar
+Fundin
+Gaffer Gamgee
+Galadhon
+Galador
+Galadriel
+Galathil
+Galdor
+Galdor of the Havens
+Galion
+Gálmód
+Gamil Zirak
+Gamling
+Gandalf
+Gárulf
+Gelmir
+Gerda Boffin
+Gerontius Took
+Gethron
+Ghân-buri-Ghân
+Gil-galad
+Gilbarad
+Gildis
+Gildor
+Gilly Brownlock
+Gilmith
+Gilraen
+Gilwen
+Gimilkhâd
+Gimilzagar
+Gimli
+Girion
+Glaurung
+Gléowine
+Glirhuin
+Glóin
+Glóredhel
+Glorfindel
+Golasgil
+Goldberry
+Goldilocks Gardner
+Goldwine
+Golfimbul
+Gollum
+Gorbadoc Brandybuck
+Gorbulas Brandybuck
+Gorgol
+Gorhendad Oldbuck
+Gorlim
+Gormadoc Brandybuck
+Gothmog
+Gram
+Great Eagle
+Great Goblin
+Griffo Boffin
+Grim
+Gríma
+Grimbeorn
+Grimbold
+Grishnákh
+Grithnir
+Gróin
+Grór
+Gruffo Boffin
+Guilin
+Gundabald Bolger
+Gundahad Bolger
+Gundahar Bolger
+Gundolpho Bolger
+Gundor
+Guthláf
+Gwaihir
+Gwindor
+Hador
+Halbarad
+Haldad
+Haldan
+Haldar
+Haldir
+Haleth
+Halfast Gamgee
+Halfred Gamgee
+Halfred Greenhand
+Halfred of Overhill
+Hallacar
+Hallas
+Hallatan
+Halmir
+Háma
+Hamfast Gardner
+Hamfast of Gamwich
+Hamson Gamgee
+Handir
+Hanna Goldworthy
+Hannar
+Hardang
+Harding
+Harding of the Hill
+Hareth
+Harry Goatleaf
+Hathaldir
+Hathol
+Hatholdir
+Hazad
+Helm
+Henderch
+Hending
+Herefara
+Herendil
+Heribald Bolger
+Herion
+Herubrand
+Herugar Bolger
+Herumor
+Hild
+Hilda Bracegirdle
+Hildibrand Took
+Hildifons Took
+Hildigard Took
+Hildigrim Took
+Hirgon
+Hiril
+Hirluin
+Hirwen
+Hob Gammidge
+Hob Hayward
+Hobson
+Holdwine
+Holfast Gardner
+Holman Cotton
+Horn
+Huan
+Hugo Boffin
+Hugo Bracegirdle
+Hundad
+Hundar
+Hunleth
+Hunthor
+Huor
+Húrin
+Hyarmendacil
+Iago Grubb
+Îbal
+Ibun
+Idis
+Idril
+Ilberic Brandybuck
+Imin
+Iminyë
+Imlach
+Imrahil
+Imrazôr
+Indis
+Indor
+Ingold
+Ingwë
+Ingwion
+Inziladûn
+Inzilbêth
+Ioreth
+Iorlas
+Írildë
+Írimë
+Írimon
+Irolas
+Isembard Took
+Isembold Took
+Isengar Took
+Isengrim
+Isildur
+Isilmë
+Isilmo
+Isumbras
+Ithilbor
+Ivorwen
+Ivriniel
+Ivy Goodenough
+Jago Boffin
+Jessamine Boffin
+Khamûl
+Khîm
+Kíli
+King of the Dead
+Lagduf
+Lalaith
+Landroval
+Largo Baggins
+Larnach
+Laura Grubb
+Lavender Grubb
+Leaflock
+Legolas
+Lenwë
+Léod
+Lily Baggins
+Lily Brown
+Linda Baggins
+Lindir
+Lindissë
+Lindórië
+Lobelia Sackville-Baggins
+Lofar
+Lonely Troll
+Longo Baggins
+Lóni
+Lorgan
+Lothíriel
+Lotho Sackville-Baggins
+Lugdush
+Lúthien
+Mablung
+Madoc Brandybuck
+Madril
+Maedhros
+Maeglin
+Maglor
+Magor
+Mahtan
+Mairen
+Malach
+Malantur
+Malbeth
+Mallor
+Malva Headstrong
+Malvegil
+Manthor
+Manwendil
+Marach
+Marcho
+Mardil
+Marhari
+Marhwini
+Marigold Gamgee
+Marmadas Brandybuck
+Marmadoc Brandybuck
+Marroc Brandybuck
+Mat Heathertoes
+Mauhúr
+May Gamgee
+Meleth
+Melian
+Melilot Brandybuck
+Menegilda Goold
+Meneldil
+Meneldor
+Mentha Brandybuck
+Meriadoc Brandybuck
+Merimac Brandybuck
+Merimas Brandybuck
+Merry Gardner
+Milo Burrows
+Mîm
+Mimosa Bunce
+Minardil
+Minastan
+Minohtar
+Minto Burrows
+Mirabella Took
+Míriel
+Mithrellas
+Mogru
+Moro Burrows
+Morwë
+Morwen
+Morwen Steelsheen
+Mosco Burrows
+Mouth of Sauron
+Mrs. Bunce
+Mrs. Maggot
+Mungo Baggins
+Muzgash
+Myrtle Burrows
+Náin
+Náli
+Nar
+Nár
+Narmacil
+Narvi
+Nazgûl
+Nellas
+Nerdanel
+Nessanië
+Nienor
+Nimloth of Doriath
+Nimrodel
+Nina Lightfoot
+Nob
+Nolondil
+Nora Bolger
+Nori
+Númendil
+Núneth
+Nurwë
+Odo Proudfoot
+Odovacar Bolger
+Ohtar
+Óin
+Old Noakes
+Olo Proudfoot
+Olwë
+Ondoher
+Orchaldor
+Orgulas Brandybuck
+Ori
+Orleg
+Ornendil
+Ornil
+Orodreth
+Oromendil
+Orontor
+Oropher
+Orophin
+Ostoher
+Otho Sackville-Baggins
+Othrondir
+Otto Boffin
+Paladin Took
+Pansy Baggins
+Peeping Jack
+Pelendur
+Pengolodh
+Peony Baggins
+Peregrin Took
+Pervinca Took
+Pimpernel Took
+Pippin Gardner
+Poldor
+Polo Baggins
+Ponto Baggins
+Poppy Chubb-Baggins
+Porto Baggins
+Posco Baggins
+Pott the Mayor
+Primrose Boffin
+Primrose Gardner
+Primula Brandybuck
+Prisca Baggins
+Quennar
+Quickbeam
+Radagast
+Radbug
+Radhruin
+Ragnir
+Ragnor
+Reginard Took
+Rían
+Roäc
+Robin Gardner
+Robin Smallburrow
+Rollo Boffin
+Rómendacil
+Rorimac Brandybuck
+Rosa Baggins
+Rosamunda Took
+Rose Cotton
+Rose Gardner
+Rowan
+Rowlie Appledore
+Ruby Bolger
+Ruby Gardner
+Rudibert Bolger
+Rudigar Bolger
+Rudolph Bolger
+Rufus Burrows
+Rúmil
+Sador
+Saelon
+Saeros
+Sagroth
+Salvia Brandybuck
+Samwise Gamgee
+Sancho Proudfoot
+Sangahyando
+Sapphira Brockhouse
+Saradas Brandybuck
+Saradoc Brandybuck
+Saruman
+Sauron
+Scatha
+Seredic Brandybuck
+Shagram
+Shelob
+Sigismond Took
+Silmariën
+Siriondil
+Skinbark
+Smaug
+Snaga
+Soronto
+Tal-Elmar
+Tanta Hornblower
+Tar-Alcarin
+Tar-Aldarion
+Tar-Amandil
+Tar-Anárion
+Tar-Ancalimë
+Tar-Ancalimon
+Tar-Anducal
+Tar-Ardamin
+Tar-Atanamir
+Tar-Calmacil
+Tar-Ciryatan
+Tar-Elendil
+Tar-Meneldur
+Tar-Minastir
+Tar-Míriel
+Tar-Palantir
+Tar-Súrion
+Tar-Telemmaitë
+Tar-Telperiën
+Tar-Vanimeldë
+Tarannon Falastur
+Tarcil
+Tarciryan
+Targon
+Tarondor
+Tata
+Tatië
+Ted Sandyman
+Telchar
+Telemnar
+Telumehtar Umbardacil
+Thengel
+Theobald Bolger
+Théoden
+Théodred
+Théodwyn
+Thingol
+Thorin
+Thorin Stonehelm
+Thorondir
+Thorondor
+Thráin
+Thranduil
+Thrór
+Tindómiel
+Tobold Hornblower
+Togo Goodbody
+Tolman Cotton Junior
+Tolman Gardner
+Tom Bombadil
+Tom Pickthorn
+Torhir Ifant
+Tosto Boffin
+Treebeard
+Tuor
+Turambar
+Turgon
+Túrin
+Uffo Boffin
+Ufthak
+Ulbar
+Uldor
+Ulfang
+Ulfast
+Ulrad
+Ulwarth
+Ungoliant
+Urthel
+Valacar
+Valandil
+Valandur
+Vardamir
+Vardilmë
+Vëantur
+Vidugavia
+Vidumavi
+Vigo Boffin
+Vinitharya
+Vorondil
+Voronwë
+Walda
+Watcher in the Water
+Wídfara
+Wilcome
+Wilibald Bolger
+Wilimar Bolger
+Will Whitfoot
+William
+Willie Banks
+Wiseman Gamwich
+Witch-king
+Wulf
+Yávien
+Zamîn
+Zimrahin
+Zimraphel
